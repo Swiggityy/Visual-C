@@ -1,0 +1,19 @@
+E:\Spring 2018\309\payroll\payroll\bin\Debug\payroll.exe.config
+E:\Spring 2018\309\payroll\payroll\bin\Debug\payroll.exe
+E:\Spring 2018\309\payroll\payroll\bin\Debug\payroll.pdb
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.csprojResolveAssemblyReference.cache
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.frmPay.resources
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.Properties.Resources.resources
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.csproj.GenerateResource.Cache
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.csproj.CoreCompileInputs.cache
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.exe
+E:\Spring 2018\309\payroll\payroll\obj\Debug\payroll.pdb
+C:\Users\lmarcoulides\Desktop\payroll\payroll\bin\Debug\payroll.exe.config
+C:\Users\lmarcoulides\Desktop\payroll\payroll\bin\Debug\payroll.exe
+C:\Users\lmarcoulides\Desktop\payroll\payroll\bin\Debug\payroll.pdb
+C:\Users\lmarcoulides\Desktop\payroll\payroll\obj\Debug\payroll.csprojResolveAssemblyReference.cache
+C:\Users\lmarcoulides\Desktop\payroll\payroll\obj\Debug\payroll.frmPay.resources
+C:\Users\lmarcoulides\Desktop\payroll\payroll\obj\Debug\payroll.Properties.Resources.resources
+C:\Users\lmarcoulides\Desktop\payroll\payroll\obj\Debug\payroll.csproj.GenerateResource.Cache
+C:\Users\lmarcoulides\Desktop\payroll\payroll\obj\Debug\payroll.exe
+C:\Users\lmarcoulides\Desktop\payroll\payroll\obj\Debug\payroll.pdb

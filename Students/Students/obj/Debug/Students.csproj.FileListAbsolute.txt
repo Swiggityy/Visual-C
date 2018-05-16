@@ -1,0 +1,10 @@
+C:\Users\Chris_Nguyen\Desktop\Students\Students\bin\Debug\Students.exe.config
+C:\Users\Chris_Nguyen\Desktop\Students\Students\bin\Debug\Students.exe
+C:\Users\Chris_Nguyen\Desktop\Students\Students\bin\Debug\Students.pdb
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.Form1.resources
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.csproj.GenerateResource.Cache
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.exe
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.pdb
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.Information.resources
+C:\Users\Chris_Nguyen\Desktop\Students\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache

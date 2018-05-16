@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\Population\Population\bin\Debug\netcoreapp2.0\Population.deps.json
+C:\Users\Chris\source\repos\Population\Population\bin\Debug\netcoreapp2.0\Population.runtimeconfig.json
+C:\Users\Chris\source\repos\Population\Population\bin\Debug\netcoreapp2.0\Population.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\Population\Population\bin\Debug\netcoreapp2.0\Population.dll
+C:\Users\Chris\source\repos\Population\Population\bin\Debug\netcoreapp2.0\Population.pdb
+C:\Users\Chris\source\repos\Population\Population\obj\Debug\netcoreapp2.0\Population.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\Population\Population\obj\Debug\netcoreapp2.0\Population.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Population\Population\obj\Debug\netcoreapp2.0\Population.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Population\Population\obj\Debug\netcoreapp2.0\Population.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Population\Population\obj\Debug\netcoreapp2.0\Population.dll
+C:\Users\Chris\source\repos\Population\Population\obj\Debug\netcoreapp2.0\Population.pdb

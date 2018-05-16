@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\SumInts\SumInts\bin\Debug\netcoreapp2.0\SumInts.deps.json
+C:\Users\Chris\source\repos\SumInts\SumInts\bin\Debug\netcoreapp2.0\SumInts.runtimeconfig.json
+C:\Users\Chris\source\repos\SumInts\SumInts\bin\Debug\netcoreapp2.0\SumInts.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\SumInts\SumInts\bin\Debug\netcoreapp2.0\SumInts.dll
+C:\Users\Chris\source\repos\SumInts\SumInts\bin\Debug\netcoreapp2.0\SumInts.pdb
+C:\Users\Chris\source\repos\SumInts\SumInts\obj\Debug\netcoreapp2.0\SumInts.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\SumInts\SumInts\obj\Debug\netcoreapp2.0\SumInts.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\SumInts\SumInts\obj\Debug\netcoreapp2.0\SumInts.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\SumInts\SumInts\obj\Debug\netcoreapp2.0\SumInts.AssemblyInfo.cs
+C:\Users\Chris\source\repos\SumInts\SumInts\obj\Debug\netcoreapp2.0\SumInts.dll
+C:\Users\Chris\source\repos\SumInts\SumInts\obj\Debug\netcoreapp2.0\SumInts.pdb

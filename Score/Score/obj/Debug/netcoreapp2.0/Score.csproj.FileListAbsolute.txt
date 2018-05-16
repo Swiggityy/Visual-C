@@ -1,0 +1,22 @@
+/Users/chrisnguyen/Desktop/Score/Score/obj/Debug/netcoreapp2.0/Score.csprojResolveAssemblyReference.cache
+/Users/chrisnguyen/Desktop/Score/Score/obj/Debug/netcoreapp2.0/Score.csproj.CoreCompileInputs.cache
+/Users/chrisnguyen/Desktop/Score/Score/obj/Debug/netcoreapp2.0/Score.AssemblyInfoInputs.cache
+/Users/chrisnguyen/Desktop/Score/Score/obj/Debug/netcoreapp2.0/Score.AssemblyInfo.cs
+/Users/chrisnguyen/Desktop/Score/Score/bin/Debug/netcoreapp2.0/Score.deps.json
+/Users/chrisnguyen/Desktop/Score/Score/bin/Debug/netcoreapp2.0/Score.runtimeconfig.json
+/Users/chrisnguyen/Desktop/Score/Score/bin/Debug/netcoreapp2.0/Score.runtimeconfig.dev.json
+/Users/chrisnguyen/Desktop/Score/Score/bin/Debug/netcoreapp2.0/Score.dll
+/Users/chrisnguyen/Desktop/Score/Score/bin/Debug/netcoreapp2.0/Score.pdb
+/Users/chrisnguyen/Desktop/Score/Score/obj/Debug/netcoreapp2.0/Score.dll
+/Users/chrisnguyen/Desktop/Score/Score/obj/Debug/netcoreapp2.0/Score.pdb
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/bin/Debug/netcoreapp2.0/Score.deps.json
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/bin/Debug/netcoreapp2.0/Score.runtimeconfig.json
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/bin/Debug/netcoreapp2.0/Score.runtimeconfig.dev.json
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/bin/Debug/netcoreapp2.0/Score.dll
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/bin/Debug/netcoreapp2.0/Score.pdb
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/obj/Debug/netcoreapp2.0/Score.csprojResolveAssemblyReference.cache
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/obj/Debug/netcoreapp2.0/Score.csproj.CoreCompileInputs.cache
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/obj/Debug/netcoreapp2.0/Score.AssemblyInfoInputs.cache
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/obj/Debug/netcoreapp2.0/Score.AssemblyInfo.cs
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/obj/Debug/netcoreapp2.0/Score.dll
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/Score/Score/obj/Debug/netcoreapp2.0/Score.pdb

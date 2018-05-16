@@ -1,0 +1,11 @@
+C:\Users\lmarcoulides\Desktop\Customers\Customers\bin\Debug\Customers.exe.config
+C:\Users\lmarcoulides\Desktop\Customers\Customers\bin\Debug\Customers.exe
+C:\Users\lmarcoulides\Desktop\Customers\Customers\bin\Debug\Customers.pdb
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.csprojResolveAssemblyReference.cache
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.Form1.resources
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.Properties.Resources.resources
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.csproj.GenerateResource.Cache
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.exe
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.pdb
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.frmRead.resources
+C:\Users\lmarcoulides\Desktop\Customers\Customers\obj\Debug\Customers.ArrayForm.resources

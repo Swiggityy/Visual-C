@@ -1,0 +1,9 @@
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\bin\Debug\ProductArrays.exe.config
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\bin\Debug\ProductArrays.exe
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\bin\Debug\ProductArrays.pdb
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\obj\Debug\ProductArrays.csprojResolveAssemblyReference.cache
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\obj\Debug\ProductArrays.Form1.resources
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\obj\Debug\ProductArrays.Properties.Resources.resources
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\obj\Debug\ProductArrays.csproj.GenerateResource.Cache
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\obj\Debug\ProductArrays.exe
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\ProductArrays\ProductArrays\obj\Debug\ProductArrays.pdb

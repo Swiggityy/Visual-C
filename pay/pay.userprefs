@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F3A53A1E-7333-49C2-B67F-74E3B26F3CA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pay/Program.cs">
+    <Files>
+      <File FileName="pay/Program.cs" Line="24" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.pay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

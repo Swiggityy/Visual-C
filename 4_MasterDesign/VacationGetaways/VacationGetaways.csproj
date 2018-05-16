@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9AAA28D0-6FB0-45D5-BC4D-A5959A49AF9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VacationGetaways</RootNamespace>
+    <AssemblyName>VacationGetaways</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookTrip1P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookTrip1P.Designer.cs">
+      <DependentUpon>BookTrip1P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BookTrip2P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookTrip2P.Designer.cs">
+      <DependentUpon>BookTrip2P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Confirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Confirmation.Designer.cs">
+      <DependentUpon>Confirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAccount.Designer.cs">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThankYou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThankYou.Designer.cs">
+      <DependentUpon>ThankYou.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Past Trips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Past Trips.Designer.cs">
+      <DependentUpon>View Past Trips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Culture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Culture.Designer.cs">
+      <DependentUpon>Culture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relax.Designer.cs">
+      <DependentUpon>Relax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Celebrate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Celebrate.Designer.cs">
+      <DependentUpon>Celebrate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BookTrip1P.resx">
+      <DependentUpon>BookTrip1P.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookTrip2P.resx">
+      <DependentUpon>BookTrip2P.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Confirmation.resx">
+      <DependentUpon>Confirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAccount.resx">
+      <DependentUpon>NewAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThankYou.resx">
+      <DependentUpon>ThankYou.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Past Trips.resx">
+      <DependentUpon>View Past Trips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Culture.resx">
+      <DependentUpon>Culture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relax.resx">
+      <DependentUpon>Relax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Celebrate.resx">
+      <DependentUpon>Celebrate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Globe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Culture-and-History.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relaxing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vegas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\large_image20150930-9589-1979t5n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sakura_tg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a-woman-practicing-yoga-on-the-beach.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hot-springs-655x353.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c700x420.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RUSH-opening-weekend-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dining-e1508956552374.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cruise.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\singapore.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

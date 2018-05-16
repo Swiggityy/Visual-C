@@ -1,0 +1,11 @@
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.0/FirstProgram.deps.json
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.0/FirstProgram.runtimeconfig.json
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.0/FirstProgram.runtimeconfig.dev.json
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.0/FirstProgram.dll
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.0/FirstProgram.pdb
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.0/FirstProgram.csprojResolveAssemblyReference.cache
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.0/FirstProgram.csproj.CoreCompileInputs.cache
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.0/FirstProgram.AssemblyInfoInputs.cache
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.0/FirstProgram.AssemblyInfo.cs
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.0/FirstProgram.dll
+/Users/chrisnguyen/Desktop/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.0/FirstProgram.pdb

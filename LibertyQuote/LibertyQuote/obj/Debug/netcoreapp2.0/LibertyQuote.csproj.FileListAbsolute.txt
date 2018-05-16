@@ -1,0 +1,22 @@
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.deps.json
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.runtimeconfig.json
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.runtimeconfig.dev.json
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.dll
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.pdb
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.csprojResolveAssemblyReference.cache
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.csproj.CoreCompileInputs.cache
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.AssemblyInfoInputs.cache
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.AssemblyInfo.cs
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.dll
+/Users/chrisnguyen/Desktop/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.pdb
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.csprojResolveAssemblyReference.cache
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.csproj.CoreCompileInputs.cache
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.AssemblyInfoInputs.cache
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.AssemblyInfo.cs
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.dll
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/obj/Debug/netcoreapp2.0/LibertyQuote.pdb
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.deps.json
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.runtimeconfig.json
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.runtimeconfig.dev.json
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.dll
+/Users/chrisnguyen/Desktop/School/Semesters/2018 Spring /ISDS 309/Programs/LibertyQuote/LibertyQuote/bin/Debug/netcoreapp2.0/LibertyQuote.pdb

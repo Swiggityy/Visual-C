@@ -1,0 +1,10 @@
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe.config
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.pdb
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.Form1.resources
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.Properties.Resources.resources
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csproj.GenerateResource.Cache
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.exe
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.pdb
+C:\Users\Chris_Nguyen\Desktop\EmployeeSalaryCalculator\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.Form2.resources

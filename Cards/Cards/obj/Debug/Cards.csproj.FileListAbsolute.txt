@@ -1,0 +1,9 @@
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\bin\Debug\Cards.exe.config
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\bin\Debug\Cards.exe
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\bin\Debug\Cards.pdb
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\obj\Debug\Cards.Form1.resources
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\obj\Debug\Cards.exe
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Cards\Cards\obj\Debug\Cards.pdb

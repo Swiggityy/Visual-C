@@ -1,0 +1,9 @@
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\bin\Debug\Discounts.exe.config
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\bin\Debug\Discounts.exe
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\bin\Debug\Discounts.pdb
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\obj\Debug\Discounts.csprojResolveAssemblyReference.cache
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\obj\Debug\Discounts.Form1.resources
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\obj\Debug\Discounts.Properties.Resources.resources
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\obj\Debug\Discounts.csproj.GenerateResource.Cache
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\obj\Debug\Discounts.exe
+c:\users\chris_nguyen\documents\visual studio 2017\Projects\Discounts\Discounts\obj\Debug\Discounts.pdb
